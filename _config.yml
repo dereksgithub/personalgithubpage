@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/dereksgithub?tab=repositories"
+  github           : "dereksgithub?tab=repositories"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "derek-ding-2a0993200"
+  linkedin         : "derek-ding-2a0993200/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +71,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
